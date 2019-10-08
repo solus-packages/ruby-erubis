@@ -1,6 +1,6 @@
 name       : ruby-erubis
 version    : 2.7.0
-release    : 2
+release    : 3
 source     :
     - https://rubygems.org/downloads/erubis-2.7.0.gem : 63653f5174a7997f6f1d6f465fbe1494dcc4bdab1fb8e635f6216989fb1148ba
 license    : MIT
